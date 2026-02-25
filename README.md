@@ -13,7 +13,7 @@
 ⚡ Curious, adaptable, and always eager to learn new technologies
 
 ## 🔧 Skills
-- Python ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- Python
 - Data Analysis
 - Machine Learning
 - SQL
@@ -22,4 +22,3 @@
 - LinkedIn: https://linkedin.com/in/irmakkoseoglu
 - Email: rmakoseoglu@hotmail.com
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=irmakkoseoglu)
-<img src="GIF_LINK" width="400"/>
