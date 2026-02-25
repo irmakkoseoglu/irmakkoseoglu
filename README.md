@@ -16,7 +16,6 @@
 - Python
 - Data Analysis
 - Machine Learning
-- SQL
 
 ## 📫 How to reach me
 - LinkedIn: https://linkedin.com/in/irmakkoseoglu
