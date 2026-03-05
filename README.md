@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Irmak!
 
-- 🎓 BSc Mathematical Engineering Graduate, ITU (Istanbul Technical University)
+- 🎓 BSc Mathematical Engineering Graduate, ITU (Istanbul Technical University)🇹🇷
 - 🎓 MSc in Big Data & Artificial Intelligence — Berlin, Germany 🇩🇪
 - 💻 Passionate about Data Science, AI, and Technology
 - 🚀 Fast learner with strong analytical thinking
