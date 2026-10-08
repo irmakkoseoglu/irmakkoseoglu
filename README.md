@@ -19,4 +19,4 @@
 
 ## 📫 How to reach me
 - LinkedIn: https://linkedin.com/in/irmakkoseoglu
-- Email: rmakoseoglu@hotmail.com
+- Email: irmakkoseoglu01@gmail.com
