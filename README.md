@@ -2,8 +2,6 @@
 
 - 🎓 BSc Mathematical Engineering Graduate, ITU (Istanbul Technical University)🇹🇷
 - 🎓 MSc in Big Data & Artificial Intelligence — Berlin, Germany 🇩🇪
-- 💻 Passionate about Data Science, AI, and Technology
-- 🚀 Fast learner with strong analytical thinking
 
 🧠 About Me
 
@@ -11,11 +9,6 @@
 - 🐍 Experienced with Python for data analysis and projects
 - 🌍 International experience through exchange programs and language education
 - ⚡ Curious, adaptable, and always eager to learn new technologies
-
-## 🔧 Skills
-- Python
-- Data Analysis
-- Machine Learning
 
 ## 📫 How to reach me
 - LinkedIn: https://linkedin.com/in/irmakkoseoglu
